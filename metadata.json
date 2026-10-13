@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Carrom - Pro Board Game",
+  "description": "Professional Carrom Board Game with realistic physics, Space & Astronaut theme, Practice, 2 Players, and Computer AI modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
